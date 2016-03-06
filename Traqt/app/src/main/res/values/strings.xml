@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Traqt</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">Traqt</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="title_activity_session">SessionActivity</string>
+    <string name="title_activity_form">FormActivity</string>
+
+    <string-array name="categories">
+        <item>Fitness</item>
+        <item>Concentração</item>
+        <item>Relaxamento</item>
+        <item>Desempenho</item>
+    </string-array>
+</resources>
